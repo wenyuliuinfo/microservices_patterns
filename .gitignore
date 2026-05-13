@@ -1,1 +1,16 @@
 .gradle/
+build/
+*.idea/
+*.iml
+*.log
+*.pid
+out
+target
+bin
+node_modules
+dist
+.serverless
+.classpath
+.project
+.settings
+ftgo-api-gateway-graphql/
